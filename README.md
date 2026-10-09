@@ -1,165 +1,259 @@
 <!--
-  @IfBilal · GitHub Profile / Black Edition
-  Built around the actual CV and public GitHub projects of Muhammad Bilal Tahir.
-  Keep this README.md at the root of github.com/IfBilal/IfBilal.
-  All visual assets are local. No script tags, external stat counters, or remote GIF services.
+  github.com/IfBilal · profile README
+  One file. No local assets, generated illustrations, or custom banners.
+  The three optional visual embeds below are hosted services, not repo files.
 -->
 
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Bilal Tahir — Full-Stack AI Engineer. Agentic AI, computer vision, and software engineering." width="100%" />
+  <samp>SOFTWARE ENGINEERING &nbsp;·&nbsp; ARTIFICIAL INTELLIGENCE &nbsp;·&nbsp; SYSTEMS</samp>
 
-<br />
+  <h1>Hey, I'm Muhammad Bilal Tahir <code>↗</code></h1>
 
-<img src="./assets/focus.gif" alt="Animated focus: agents with cited sources, vision systems with confidence-aware fallbacks, and deployable software." width="100%" />
+  <p><strong>Full-Stack AI Engineer</strong> &nbsp;·&nbsp; Agentic Systems &nbsp;·&nbsp; Computer Vision</p>
 
-<br />
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=E7E5E4&center=true&vCenter=true&width=760&height=48&lines=I+build+the+software+around+the+intelligence.;From+model+evaluation+to+production+APIs.;Agents%2C+vision%2C+systems.+Not+just+demos." />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=292524&center=true&vCenter=true&width=760&height=48&lines=I+build+the+software+around+the+intelligence.;From+model+evaluation+to+production+APIs.;Agents%2C+vision%2C+systems.+Not+just+demos." />
+      <img alt="I build the software around the intelligence. From model evaluation to production APIs." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=E7E5E4&center=true&vCenter=true&width=760&height=48&lines=I+build+the+software+around+the+intelligence.;From+model+evaluation+to+production+APIs.;Agents%2C+vision%2C+systems.+Not+just+demos." />
+    </picture>
+  </p>
 
-<a href="https://github.com/IfBilal?tab=repositories"><img src="./assets/contact-github.svg" alt="Browse GitHub projects" width="31%" /></a>
-<a href="https://www.linkedin.com/in/m-bilaltahir/"><img src="./assets/contact-linkedin.svg" alt="Connect on LinkedIn" width="31%" /></a>
-<a href="mailto:muhammadbilaltahir06@gmail.com"><img src="./assets/contact-email.svg" alt="Send an email" width="31%" /></a>
+  <p>
+    <a href="https://github.com/IfBilal?tab=repositories"><kbd>⌘ &nbsp; Repositories</kbd></a>&nbsp;
+    <a href="https://www.linkedin.com/in/m-bilaltahir/"><kbd>↗ &nbsp; LinkedIn</kbd></a>&nbsp;
+    <a href="mailto:muhammadbilaltahir06@gmail.com"><kbd>✉ &nbsp; Email</kbd></a>&nbsp;
+    <a href="https://leetcode.com/u/8BitNinja/"><kbd>⌁ &nbsp; LeetCode</kbd></a>
+  </p>
+
+  <sub>Islamabad, Pakistan &nbsp; • &nbsp; Full Stack Developer @ Markhor Systems &nbsp; • &nbsp; BS Software Engineering @ FAST-NUCES</sub>
+
+  <p>
+    <a href="#work">PROJECTS</a> &nbsp;·&nbsp;
+    <a href="#stack">STACK</a> &nbsp;·&nbsp;
+    <a href="#research">RESEARCH</a> &nbsp;·&nbsp;
+    <a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp;
+    <a href="#contact">CONTACT</a>
+  </p>
 
 </div>
 
-<br />
+---
 
-## About
+### `01 / hello, world.`
 
-**Models are components. The system is the product.**
+I work where **AI engineering meets software engineering**: building agent workflows, evaluating vision models, designing the APIs and data layers around them, and shipping interfaces that make the result usable.
 
-I'm **Muhammad Bilal Tahir**, a **Full-Stack AI Engineer** and Software Engineering student at **FAST-NUCES**. I work across the parts of intelligent software that tend to get treated as separate disciplines: **model evaluation, agent orchestration, backend architecture, databases, and the interfaces people actually use.**
+I care less about *“look, an LLM can do this”* and more about **what happens when the model is uncertain, the service times out, or the user needs an answer they can trust.**
 
-My work has taken me from **RGB/thermal object detection research** to **agent-driven document processing**, **natural-language workflow engines**, and **full-stack applications** shipped for real clients.
+```python
+my_approach = {
+    "build":     "end-to-end, not just a notebook",
+    "reasoning": "ground it in sources and deterministic tools",
+    "models":    "measure them before trusting them",
+    "shipping":  "design for the failure path, too",
+}
+```
 
-I care about the details that make AI useful beyond a demo: where data comes from, whether an answer can be verified, which operations should be deterministic, what happens when confidence is low, and how the whole thing gets deployed.
-
-`Full Stack Developer @ Markhor Systems`  ·  `BS Software Engineering @ FAST-NUCES`  ·  `Islamabad, Pakistan`
+> **The interesting part isn't calling a model. It's engineering everything that happens before and after.**
 
 ---
 
-## 01 / Selected work
+<a id="work"></a>
 
-*Four projects. Four different problems. One engineering approach: make the system around the intelligence just as deliberate as the intelligence itself.*
+### `02 / things I've shipped` &nbsp; <sub>↗ click a project to explore the code</sub>
 
-<a href="https://github.com/IfBilal/UAV-Dependability-lab-Air-Object-Detection">
-  <img src="./assets/project-skyeye.svg" width="100%" alt="SkyEye. Computer vision project showing an RGB/IR image, YOLO detector, and vision-language fallback pipeline. Click to view repository." />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**SkyEye** — [Explore repository ↗](https://github.com/IfBilal/UAV-Dependability-lab-Air-Object-Detection)  
-A deployable aerial-object detection application built from work at the NCRA UAV Dependability Lab. It combines YOLO detectors and four zero-shot VLMs, with **confidence-gated adaptive fallback**, batch inference, and persistent run history. The key design choice is *not* to send every image through a slower model when a confident detector can handle it.
+<sup>01 &nbsp; / &nbsp; COMPUTER VISION</sup>
 
-<a href="https://github.com/IfBilal/rahnuma">
-  <img src="./assets/project-rahnuma.svg" width="100%" alt="Rahnuma. Agentic admissions advisor with source-grounded retrieval and deterministic merit calculations. Click to view repository." />
-</a>
+<h3><a href="https://github.com/IfBilal/UAV-Dependability-lab-Air-Object-Detection">↗ SkyEye</a></h3>
 
-**Rahnuma** — [Explore repository ↗](https://github.com/IfBilal/rahnuma)  
-A LangGraph-powered admissions advisor for Pakistani students. **Cited RAG** handles prospectus-backed answers, while **deterministic calculators** handle university merit rules. Built with FastAPI, Next.js, PostgreSQL/pgvector, and Clerk, with persistent student profiles.
+Aerial-object detection across <strong>RGB + thermal/IR</strong> imagery. A YOLO-first pipeline escalates low-confidence predictions to vision-language models instead of wasting inference on every frame.
 
-<a href="https://github.com/IfBilal/CodeGrapher">
-  <img src="./assets/project-codegrapher.svg" width="100%" alt="CodeGrapher. Multi-agent code intelligence with a graph of repository dependencies. Click to view repository." />
-</a>
+<br/>
 
-**CodeGrapher** — [Explore repository ↗](https://github.com/IfBilal/CodeGrapher)  
-Turns repositories into queryable architecture knowledge. A **CrewAI multi-agent pipeline** combines **Tree-Sitter/AST parsing**, Neo4j, and Qdrant to map structure, identify anti-patterns, and trace potential change impact. Background work runs through Celery and Redis.
+<code>YOLO</code> <code>VLMs</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code>
 
-<a href="https://github.com/IfBilal/Complete-Home-Real-Estate-Seller-Intake-Platform">
-  <img src="./assets/project-real-estate.svg" width="100%" alt="Real Estate Intake Platform. Seller intake workflow with AI pre-qualification. Click to view repository." />
-</a>
+<br/><br/>
+<a href="https://github.com/IfBilal/UAV-Dependability-lab-Air-Object-Detection">View repository →</a>
 
-**Real Estate Intake Platform** — [Explore repository ↗](https://github.com/IfBilal/Complete-Home-Real-Estate-Seller-Intake-Platform)  
-An end-to-end seller onboarding experience: guided forms, address autocomplete, room media uploads, a management dashboard, and AI-powered checks/pre-qualification. This one is about a **useful business workflow**, not an AI demo looking for a problem.
+</td>
+<td width="50%" valign="top">
+
+<sup>02 &nbsp; / &nbsp; AGENTIC AI + RAG</sup>
+
+<h3><a href="https://github.com/IfBilal/rahnuma">↗ Rahnuma</a></h3>
+
+An admissions advisor built around <strong>cited retrieval and deterministic merit calculations</strong>. LangGraph coordinates the flow; student-profile changes require confirmation.
+
+<br/>
+
+<code>LangGraph</code> <code>FastAPI</code> <code>Next.js</code> <code>pgvector</code>
+
+<br/><br/>
+<a href="https://github.com/IfBilal/rahnuma">View repository →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sup>03 &nbsp; / &nbsp; MULTI-AGENT ENGINEERING</sup>
+
+<h3><a href="https://github.com/IfBilal/CodeGrapher">↗ CodeGrapher</a></h3>
+
+Turns source repositories into <strong>queryable architecture knowledge</strong>. Deterministic AST parsing builds the foundation; agents analyze structure, anti-patterns, and change impact.
+
+<br/>
+
+<code>CrewAI</code> <code>Neo4j</code> <code>Qdrant</code> <code>Celery</code> <code>Redis</code>
+
+<br/><br/>
+<a href="https://github.com/IfBilal/CodeGrapher">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<sup>04 &nbsp; / &nbsp; AI-NATIVE FULL STACK</sup>
+
+<h3><a href="https://github.com/IfBilal/Complete-Home-Real-Estate-Seller-Intake-Platform">↗ Real Estate Intake</a></h3>
+
+A seller onboarding platform with guided intake, media uploads, an admin workflow, <strong>AI-assisted property checks</strong>, and conversational pre-qualification.
+
+<br/>
+
+<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Groq</code>
+
+<br/><br/>
+<a href="https://github.com/IfBilal/Complete-Home-Real-Estate-Seller-Intake-Platform">View repository →</a>
+
+</td>
+</tr>
+</table>
+
+**Also worth opening:** [CivicPulse ↗](https://github.com/IfBilal/CivicPulse-SCD) — an AI-assisted municipal triage platform designed to fall back gracefully when its classifier fails. &nbsp;·&nbsp; [SholaX ↗](https://github.com/IfBilal/SholaX) — a Next.js client analytics and admin product.
+
+<p align="right"><a href="https://github.com/IfBilal?tab=repositories"><strong>Explore all repositories ↗</strong></a></p>
+
+---
+
+<a id="stack"></a>
+
+### `03 / the toolkit` &nbsp; <sub>languages, frameworks & infrastructure</sub>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,ts,react,nextjs,nodejs,tailwind,postgres&theme=dark&perline=9" alt="Python, PyTorch, FastAPI, TypeScript, React, Next.js, Node.js, Tailwind CSS, PostgreSQL" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,supabase,docker,kubernetes,linux,git,github,azure&theme=dark&perline=9" alt="MongoDB, Redis, Supabase, Docker, Kubernetes, Linux, Git, GitHub, Azure" />
+</p>
+
+| Domain | Tools I reach for |
+| :-- | :-- |
+| **AI / agents** | `LangGraph` · `LangChain` · `CrewAI` · `DSPy` · `RAG` · `MCP / FastMCP` · `Ragas` · `LangSmith` |
+| **Vision / ML** | `PyTorch` · `YOLO` · `RF-DETR` · `Hugging Face` · `VLMs` · `Model evaluation` |
+| **Backend / data** | `FastAPI` · `Express` · `PostgreSQL / pgvector` · `Redis` · `Neo4j` · `Qdrant` · `Celery` · `Socket.IO` |
+| **Frontend / delivery** | `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Docker` · `Kubernetes` · `Azure Functions` |
+
+<sub>Not every tool is a personality trait. These are the ones that recur in my projects.</sub>
+
+---
+
+<a id="research"></a>
+
+### `04 / research, with receipts`
+
+At **NCRA UAV Dependability Lab**, I standardized aerial-object datasets, compared YOLO and RF-DETR architectures, trained modality-specific detectors, and evaluated four vision-language models for an adaptive fallback design.
+
+<table>
+<tr>
+<td align="center" width="25%"><h3>14,235</h3><sub>RGB images</sub></td>
+<td align="center" width="25%"><h3>15,552</h3><sub>Thermal / IR images</sub></td>
+<td align="center" width="25%"><h3>94.11%</h3><sub>RGB mAP50 · YOLOv12x</sub></td>
+<td align="center" width="25%"><h3>66.57%</h3><sub>IR mAP50 · YOLOv10x</sub></td>
+</tr>
+</table>
+
+<sub>Internship evaluation results on the specified datasets, not claims of deployment accuracy. RGB F1: 92.26% · IR F1: 76.27%.</sub>
 
 <details>
-<summary><b>More repositories</b></summary>
-<br />
+<summary><strong>⊕ Research notes — detectors, VLMs, and the design decision</strong></summary>
+<br/>
 
-- **[SholaX](https://github.com/IfBilal/SholaX)** — a Next.js MVP with a marketing site, client analytics dashboard, and role-based admin portal.
-- **[CS50 AI problem sets](https://github.com/IfBilal/cs50ai-problem-sets)** — practical implementations spanning search, logic, probability, optimization, machine learning, and language.
-- **[All repositories ↗](https://github.com/IfBilal?tab=repositories)** — smaller builds, experiments, and coursework.
+- **Benchmarks:** YOLOv8 / v10 / v11 / v12 and RF-DETR across RGB and thermal/IR imagery.
+- **Zero-shot VLMs:** InternVL2-8B, BLIP-2, Qwen2.5-VL-7B, and DeepSeek-VL-7B-Chat.
+- **Architecture:** a confidence-gated detector → VLM fallback, implemented in [SkyEye](https://github.com/IfBilal/UAV-Dependability-lab-Air-Object-Detection).
+- **Principle:** use expensive inference only where the faster model is uncertain.
 
 </details>
 
 ---
 
-## 02 / Engineering toolkit
+<a id="experience"></a>
 
-<img src="./assets/toolbox.svg" alt="Selected technologies. AI and inference: PyTorch, Transformers, LangGraph, CrewAI, YOLO, RAG. Systems and data: FastAPI, PostgreSQL, Redis, Celery, Docker, pgvector. Product and web: TypeScript, Next.js, React, Tailwind, Supabase, Vercel." width="100%" />
+### `05 / where I've worked`
 
-**AI, agents & vision**  
-`Python` · `PyTorch` · `Hugging Face` · `LangChain` · `LangGraph` · `LangSmith` · `CrewAI` · `DSPy` · `RAG` · `MCP / FastMCP` · `Ragas` · `Guardrails` · `YOLO` · `RF-DETR` · `VLMs`
+| Period | Role | Selected work |
+| :-- | :-- | :-- |
+| `2026 — now` | **Full Stack Developer** · Markhor Systems | Built client-facing web and app systems, including a medical LMS with Zoom automation, attendance, recordings, and real-time chat. |
+| `Jun–Aug 2026` | **Computer Vision Research Intern** · NCRA UAV Dependability Lab | RGB/IR detection research, detector benchmarks, VLM evaluation, and SkyEye's adaptive inference design. |
+| `Aug 2026` | **AI Engineer Intern** · Prompt To Flow (NIC) | Natural language → executable workflow graphs, with FastAPI and Groq/Gemini fallback, credit controls, and key rotation. |
+| `Nov 2025–Jan 2026` | **Software Engineer Intern** · RainMakerz | Azure Functions / FastAPI backend work within a 19-agent AI document-processing system; DSPy and LangGraph exposure. |
 
-**Backend, data & infrastructure**  
-`FastAPI` · `Node.js / Express` · `PostgreSQL / pgvector` · `MongoDB` · `SQL Server` · `Neo4j` · `Qdrant` · `Redis` · `Celery` · `BullMQ` · `Docker` · `Kubernetes` · `Azure Functions` · `REST APIs` · `JWT / Clerk`
+<details>
+<summary><strong>⊕ The university chapter — education, teaching & recognition</strong></summary>
+<br/>
 
-**Interfaces, products & tools**  
-`TypeScript / JavaScript` · `React` · `Next.js` · `Tailwind CSS` · `Streamlit` · `Supabase` · `Socket.IO` · `Vercel` · `Railway` · `Coolify` · `Git / Linux` · `Postman`
+- **BS Software Engineering**, FAST-NUCES Islamabad · **3.67/4.00 CGPA** · **4× Dean's List** · expected **2028**.
+- **4× Lab Demonstrator**, teaching Object-Oriented Programming and Data Structures labs.
+- **Vice Head**, AI Battle Arena — NASCON 2026.
+- **Runner-up**, Prompt & Play — Soventure 2025.
+- **Courses & certificates:** Neural Networks and Deep Learning; RAG (DeepLearning.AI); AI Agents with MCP (IBM); Harvard CS50's Introduction to AI with Python.
 
----
-
-## 03 / Research, measured
-
-<img src="./assets/evidence.svg" alt="Research metrics: 94.11 percent RGB mAP50, 15552 thermal/IR images, four zero-shot VLMs evaluated, and four Dean's List honors." width="100%" />
-
-During my **Computer Vision Research Internship at NCRA UAV Dependability Lab**, I standardized **14,235 RGB** and **15,552 thermal/IR** aerial-object images and conducted detector comparisons across **YOLOv8, YOLOv10, YOLOv11, YOLOv12, and RF-DETR**.
-
-The selected **YOLOv12x RGB** detector reached **94.11% mAP50 / 92.26% F1**; **YOLOv10x IR** reached **66.57% mAP50 / 76.27% F1**. I also evaluated **InternVL2-8B, BLIP-2, Qwen2.5-VL-7B, and DeepSeek-VL-7B-Chat**, then designed the confidence-gated fallback architecture used in SkyEye.
-
-<sub>These are internship evaluation metrics for the specified datasets, not claims about general-world or production performance.</sub>
+</details>
 
 ---
 
-## 04 / Experience
+### `06 / the activity log`
 
-**Full Stack Developer · [Markhor Systems](https://github.com/IfBilal)**  
-`APR 2026 — PRESENT` · Remote, Islamabad  
-Client-facing full-stack delivery, including a medical learning platform with **Zoom automation, attendance tracking, recording uploads, and live community chat**.
+<sub>Actual GitHub activity, not a hard-coded achievement counter.</sub>
 
-**Computer Vision Research Intern · NCRA UAV Dependability Lab**  
-`JUN — AUG 2026` · Hybrid, Islamabad  
-Aerial-object data curation, **detector benchmarks**, RGB/IR model training, zero-shot VLM evaluation, and the **SkyEye adaptive fallback** architecture.
+<p align="center">
+  <a href="https://github.com/IfBilal">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IfBilal&bg_color=0d1117&color=d6d3d1&line=a8a29e&point=f5f5f4&area=true&area_color=44403c&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Muhammad Bilal Tahir's recent GitHub contribution activity" />
+  </a>
+</p>
 
-**AI Engineer Intern · Prompt To Flow, National Incubation Center**  
-`AUG 2026` · On-site, Islamabad  
-Built a **natural-language-to-executable-workflow engine** with FastAPI, Groq/Gemini provider fallback, per-tenant credit controls, and API key rotation.
-
-**Software Engineer Intern · RainMakerz**  
-`NOV 2025 — JAN 2026` · Remote, San Francisco  
-Contributed to a serverless **Python/FastAPI backend on Azure Functions** inside a **19-agent document processing system**, with exposure to DSPy and LangChain/LangGraph pipelines.
-
----
-
-## 05 / Beyond the repository
-
-- **BS Software Engineering**, FAST-NUCES Islamabad · **3.67/4.00 CGPA** · **4× Dean's List** · Expected **2028**.
-- **4× Lab Demonstrator** at FAST-NUCES: Object-Oriented Programming and Data Structures labs, including cohorts of **75–100+ students**.
-- **Vice Head, AI Battle Arena** — NASCON 2026.
-- **Runner-up** — Prompt & Play Competition, Soventure 2025.
-- **Coursework & certificates** — Neural Networks & Deep Learning, RAG, AI Agents with MCP, and Harvard CS50's Introduction to AI with Python.
+<details>
+<summary><strong>⊕ Open GitHub stats</strong></summary>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IfBilal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e&icon_color=d6d3d1&rank_icon=github&include_all_commits=true" alt="IfBilal GitHub statistics" />
+</p>
+<sub>Stats are generated by a third-party service and may occasionally be unavailable or incomplete for private contributions.</sub>
+</details>
 
 ---
 
-## 06 / The way I build
+<a id="contact"></a>
 
-```text
-01  Ground model outputs in evidence.
-02  Keep deterministic operations deterministic.
-03  Measure accuracy, failure modes, and fallback behavior.
-04  Treat APIs, state, auth, and UX as part of the AI system.
-05  Ship the thing people can actually use.
-```
+### `07 / still curious?`
 
-I'm interested in **agentic software, reliable retrieval, multimodal perception, and full-stack AI systems**—especially projects where engineering the whole product matters as much as choosing the model.
+I like building systems where the **failure modes matter**: source-grounded agents, multi-step orchestration, multimodal inference, and full-stack products that survive contact with real users.
+
+If you're working on a problem at the intersection of **AI and systems engineering**, I'd enjoy talking about it.
 
 <div align="center">
 
-<a href="mailto:muhammadbilaltahir06@gmail.com"><img src="./assets/contact-email.svg" alt="Email Bilal" width="31%" /></a>
-<a href="https://www.linkedin.com/in/m-bilaltahir/"><img src="./assets/contact-linkedin.svg" alt="Connect on LinkedIn" width="31%" /></a>
-<a href="https://github.com/IfBilal?tab=repositories"><img src="./assets/contact-github.svg" alt="Open repositories" width="31%" /></a>
-
-<br /><br />
-
-<img src="./assets/footer.svg" alt="Build the model. Engineer the system. Ship the product. Muhammad Bilal Tahir." width="100%" />
-
-<sub>Designed for the GitHub renderer · Self-hosted vector artwork · Subtle, locally stored motion · No external stats service</sub>
+  <p><strong>Let's build something worth shipping.</strong></p>
+  <p>
+    <a href="mailto:muhammadbilaltahir06@gmail.com"><kbd>✉ &nbsp; Get in touch</kbd></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/m-bilaltahir/"><kbd>↗ &nbsp; Connect on LinkedIn</kbd></a>
+  </p>
+  <sub>Made of Markdown, engineering decisions, and probably too many terminal tabs.</sub>
 
 </div>
