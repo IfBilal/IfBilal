@@ -29,13 +29,6 @@
 
   <sub>Islamabad, Pakistan &nbsp; • &nbsp; Full Stack Developer @ Markhor Systems &nbsp; • &nbsp; BS Software Engineering @ FAST-NUCES</sub>
 
-  <p>
-    <a href="#work">PROJECTS</a> &nbsp;·&nbsp;
-    <a href="#stack">STACK</a> &nbsp;·&nbsp;
-    <a href="#research">RESEARCH</a> &nbsp;·&nbsp;
-    <a href="#experience">EXPERIENCE</a> &nbsp;·&nbsp;
-    <a href="#contact">CONTACT</a>
-  </p>
 
 </div>
 
@@ -59,10 +52,58 @@ my_approach = {
 > **The interesting part isn't calling a model. It's engineering everything that happens before and after.**
 
 ---
+### `02 / where I've worked`
 
-<a id="work"></a>
+<table>
+<tr>
+<td width="22%" valign="top"><br/><code>2026 — now</code></td>
+<td valign="top">
+<h3>Full Stack Developer</h3>
+<strong>Markhor Systems</strong>
+<p>Built client-facing web and app systems, including a medical LMS with Zoom automation, attendance, recordings, and real-time chat.</p>
+</td>
+</tr>
+<tr>
+<td width="22%" valign="top"><br/><code>Jun–Aug 2026</code></td>
+<td valign="top">
+<h3>Computer Vision Research Intern</h3>
+<strong>NCRA UAV Dependability Lab</strong>
+<p>RGB/IR detection research, detector benchmarks, VLM evaluation, and SkyEye's adaptive inference design.</p>
+</td>
+</tr>
+<tr>
+<td width="22%" valign="top"><br/><code>Aug 2026</code></td>
+<td valign="top">
+<h3>AI Engineer Intern</h3>
+<strong>Prompt To Flow (NIC)</strong>
+<p>Natural language → executable workflow graphs, with FastAPI and Groq/Gemini fallback, credit controls, and key rotation.</p>
+</td>
+</tr>
+<tr>
+<td width="22%" valign="top"><br/><code>Nov 2025–Jan 2026</code></td>
+<td valign="top">
+<h3>Software Engineer Intern</h3>
+<strong>RainMakerz</strong>
+<p>Azure Functions / FastAPI backend work within a 19-agent AI document-processing system; DSPy and LangGraph exposure.</p>
+</td>
+</tr>
+</table>
 
-### `02 / things I've shipped` &nbsp; <sub>↗ click a project to explore the code</sub>
+<details>
+<summary><strong>⊕ The university chapter — education, teaching & recognition</strong></summary>
+<br/>
+
+- **BS Software Engineering**, FAST-NUCES Islamabad · **3.67/4.00 CGPA** · **4× Dean's List** · expected **2028**.
+- **4× Lab Demonstrator**, teaching Object-Oriented Programming and Data Structures labs.
+- **Vice Head**, AI Battle Arena — NASCON 2026.
+- **Runner-up**, Prompt & Play — Soventure 2025.
+- **Courses & certificates:** Neural Networks and Deep Learning; RAG (DeepLearning.AI); AI Agents with MCP (IBM); Harvard CS50's Introduction to AI with Python.
+
+</details>
+
+---
+
+### `03 / things I've shipped` &nbsp; <sub>↗ click a project to explore the code</sub>
 
 <table>
 <tr>
@@ -102,7 +143,23 @@ An admissions advisor built around <strong>cited retrieval and deterministic mer
 <tr>
 <td width="50%" valign="top">
 
-<sup>03 &nbsp; / &nbsp; MULTI-AGENT ENGINEERING</sup>
+<sup>03 &nbsp; / &nbsp; DEVOPS + AI TRIAGE</sup>
+
+<h3><a href="https://github.com/IfBilal/CivicPulse-SCD">↗ CivicPulse</a></h3>
+
+A municipal complaint platform that classifies free-text complaints into category, priority and summary, and <strong>stays up even when the AI classifier fails</strong>: every LLM timeout, rate limit or bad response degrades to a rule-based fallback, never a 500. Shipped with a <strong>full DevOps stack</strong>: Docker, Kubernetes (Kustomize overlays, ConfigMaps, Secrets, StatefulSet, HPA, VPA, PDB, NetworkPolicy), CI/CD pipelines, Argo CD GitOps, and Prometheus + Grafana observability.
+
+<br/>
+
+<code>FastAPI</code> <code>React</code> <code>Docker</code> <code>Kubernetes</code> <code>HPA / VPA</code> <code>Argo CD</code> <code>Grafana</code> <code>CI/CD</code>
+
+<br/><br/>
+<a href="https://github.com/IfBilal/CivicPulse-SCD">View repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+<sup>04 &nbsp; / &nbsp; MULTI-AGENT ENGINEERING</sup>
 
 <h3><a href="https://github.com/IfBilal/CodeGrapher">↗ CodeGrapher</a></h3>
 
@@ -116,34 +173,16 @@ Turns source repositories into <strong>queryable architecture knowledge</strong>
 <a href="https://github.com/IfBilal/CodeGrapher">View repository →</a>
 
 </td>
-<td width="50%" valign="top">
-
-<sup>04 &nbsp; / &nbsp; AI-NATIVE FULL STACK</sup>
-
-<h3><a href="https://github.com/IfBilal/Complete-Home-Real-Estate-Seller-Intake-Platform">↗ Real Estate Intake</a></h3>
-
-A seller onboarding platform with guided intake, media uploads, an admin workflow, <strong>AI-assisted property checks</strong>, and conversational pre-qualification.
-
-<br/>
-
-<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Groq</code>
-
-<br/><br/>
-<a href="https://github.com/IfBilal/Complete-Home-Real-Estate-Seller-Intake-Platform">View repository →</a>
-
-</td>
 </tr>
 </table>
 
-**Also worth opening:** [CivicPulse ↗](https://github.com/IfBilal/CivicPulse-SCD) — an AI-assisted municipal triage platform designed to fall back gracefully when its classifier fails. &nbsp;·&nbsp; [SholaX ↗](https://github.com/IfBilal/SholaX) — a Next.js client analytics and admin product.
+**Also worth opening:** [Real Estate Intake ↗](https://github.com/IfBilal/Complete-Home-Real-Estate-Seller-Intake-Platform) — a seller onboarding platform with AI-assisted property checks. &nbsp;·&nbsp; [SholaX ↗](https://github.com/IfBilal/SholaX) — a Next.js client analytics and admin product.
 
 <p align="right"><a href="https://github.com/IfBilal?tab=repositories"><strong>Explore all repositories ↗</strong></a></p>
 
 ---
 
-<a id="stack"></a>
-
-### `03 / the toolkit` &nbsp; <sub>languages, frameworks & infrastructure</sub>
+### `04 / the toolkit` &nbsp; <sub>languages, frameworks & infrastructure</sub>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,ts,react,nextjs,nodejs,tailwind,postgres&theme=dark&perline=9" alt="Python, PyTorch, FastAPI, TypeScript, React, Next.js, Node.js, Tailwind CSS, PostgreSQL" />
@@ -163,9 +202,7 @@ A seller onboarding platform with guided intake, media uploads, an admin workflo
 
 ---
 
-<a id="research"></a>
-
-### `04 / research, with receipts`
+### `05 / research, with receipts`
 
 At **NCRA UAV Dependability Lab**, I standardized aerial-object datasets, compared YOLO and RF-DETR architectures, trained modality-specific detectors, and evaluated four vision-language models for an adaptive fallback design.
 
@@ -193,55 +230,7 @@ At **NCRA UAV Dependability Lab**, I standardized aerial-object datasets, compar
 
 ---
 
-<a id="experience"></a>
-
-### `05 / where I've worked`
-
-| Period | Role | Selected work |
-| :-- | :-- | :-- |
-| `2026 — now` | **Full Stack Developer** · Markhor Systems | Built client-facing web and app systems, including a medical LMS with Zoom automation, attendance, recordings, and real-time chat. |
-| `Jun–Aug 2026` | **Computer Vision Research Intern** · NCRA UAV Dependability Lab | RGB/IR detection research, detector benchmarks, VLM evaluation, and SkyEye's adaptive inference design. |
-| `Aug 2026` | **AI Engineer Intern** · Prompt To Flow (NIC) | Natural language → executable workflow graphs, with FastAPI and Groq/Gemini fallback, credit controls, and key rotation. |
-| `Nov 2025–Jan 2026` | **Software Engineer Intern** · RainMakerz | Azure Functions / FastAPI backend work within a 19-agent AI document-processing system; DSPy and LangGraph exposure. |
-
-<details>
-<summary><strong>⊕ The university chapter — education, teaching & recognition</strong></summary>
-<br/>
-
-- **BS Software Engineering**, FAST-NUCES Islamabad · **3.67/4.00 CGPA** · **4× Dean's List** · expected **2028**.
-- **4× Lab Demonstrator**, teaching Object-Oriented Programming and Data Structures labs.
-- **Vice Head**, AI Battle Arena — NASCON 2026.
-- **Runner-up**, Prompt & Play — Soventure 2025.
-- **Courses & certificates:** Neural Networks and Deep Learning; RAG (DeepLearning.AI); AI Agents with MCP (IBM); Harvard CS50's Introduction to AI with Python.
-
-</details>
-
----
-
-### `06 / the activity log`
-
-<sub>Actual GitHub activity, not a hard-coded achievement counter.</sub>
-
-<p align="center">
-  <a href="https://github.com/IfBilal">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IfBilal&bg_color=0d1117&color=d6d3d1&line=a8a29e&point=f5f5f4&area=true&area_color=44403c&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Muhammad Bilal Tahir's recent GitHub contribution activity" />
-  </a>
-</p>
-
-<details>
-<summary><strong>⊕ Open GitHub stats</strong></summary>
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IfBilal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e7e5e4&text_color=a8a29e&icon_color=d6d3d1&rank_icon=github&include_all_commits=true" alt="IfBilal GitHub statistics" />
-</p>
-<sub>Stats are generated by a third-party service and may occasionally be unavailable or incomplete for private contributions.</sub>
-</details>
-
----
-
-<a id="contact"></a>
-
-### `07 / still curious?`
+### `06 / still curious?`
 
 I like building systems where the **failure modes matter**: source-grounded agents, multi-step orchestration, multimodal inference, and full-stack products that survive contact with real users.
 
