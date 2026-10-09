@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 437" width="1120" height="437" role="img">
+<title>hero</title>
+<rect x="0" y="0" width="1120" height="437" rx="0" fill="#090909" stroke="none" stroke-width="1"/>
+<rect x="1" y="1" width="1118" height="435" rx="3" fill="none" stroke="#343330" stroke-width="1"/>
+<rect x="44" y="38" width="8" height="8" rx="0" fill="#CEBA97" stroke="none" stroke-width="1"/>
+<text x="67" y="47" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.35">IFBILAL / ENGINEERING PORTFOLIO</text>
+<text x="1070" y="47" fill="#777570" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2" text-anchor="end">2026 / 01</text>
+<path d="M44,70 L1076,70" stroke="#343330" stroke-width="1" fill="none"/><text x="51" y="180" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="113" font-weight="750" letter-spacing="-6">BILAL</text>
+<text x="51" y="291" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="113" font-weight="750" letter-spacing="-6">TAHIR</text>
+<rect x="390" y="260" width="13" height="13" rx="0" fill="#CEBA97" stroke="none" stroke-width="1"/>
+<text x="55" y="337" fill="#CEBA97" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="2.55">FULL-STACK AI ENGINEER</text>
+<text x="54" y="376" fill="#AAA7A1" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="400">Agentic AI  /  Computer vision  /  Software engineering</text>
+<path d="M630,105 L630,382" stroke="#343330" stroke-width="1" fill="none"/><text x="677" y="131" fill="#777570" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2.45">WHAT I DO</text>
+<text x="677" y="174" fill="#CEBA97" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.2">01</text>
+<text x="723" y="174" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="650" letter-spacing="0.4">REASON</text>
+<text x="723" y="198" fill="#AAA7A1" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">Multi-agent systems &amp; RAG</text>
+<path d="M677,214 L1069,214" stroke="#343330" stroke-width="1" fill="none"/><text x="677" y="244" fill="#CEBA97" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.2">02</text>
+<text x="723" y="244" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="650" letter-spacing="0.4">PERCEIVE</text>
+<text x="723" y="268" fill="#AAA7A1" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">Detection &amp; multimodal ML</text>
+<path d="M677,284 L1069,284" stroke="#343330" stroke-width="1" fill="none"/><text x="677" y="314" fill="#CEBA97" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.2">03</text>
+<text x="723" y="314" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="650" letter-spacing="0.4">SHIP</text>
+<text x="723" y="338" fill="#AAA7A1" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="400">APIs, interfaces &amp; deployments</text>
+<path d="M44,403 L1076,403" stroke="#343330" stroke-width="1" fill="none"/><text x="46" y="426" fill="#777570" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.6">FAST-NUCES · ISLAMABAD</text>
+<text x="1072" y="426" fill="#777570" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.55" text-anchor="end">RESEARCH → SYSTEMS → PRODUCT</text>
+<circle cx="1040" cy="116" r="3" fill="#CEBA97" stroke="none" stroke-width="1"/>
+<circle cx="1040" cy="116" r="11" fill="none" stroke="#343330" stroke-width="1"/>
+<circle cx="1040" cy="116" r="5" fill="none" stroke="#CEBA97" opacity="0.65"><animate attributeName="r" values="5;14;5" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.65;0;0.65" dur="5s" repeatCount="indefinite"/></circle></svg>

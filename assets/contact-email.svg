@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 64" width="330" height="64" role="img">
+<title>contact email</title>
+<rect x="0" y="0" width="330" height="64" rx="0" fill="#101010" stroke="none" stroke-width="1"/>
+<rect x="1" y="1" width="328" height="62" rx="3" fill="none" stroke="#343330" stroke-width="1"/>
+<rect x="17" y="16" width="32" height="32" rx="4" fill="none" stroke="#343330" stroke-width="1"/>
+<text x="33" y="37" fill="#CEBA97" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="750" text-anchor="middle">@</text>
+<text x="64" y="28" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.4">EMAIL</text>
+<text x="64" y="47" fill="#AAA7A1" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="400">Get in touch</text>
+<text x="310" y="40" fill="#CEBA97" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="400" text-anchor="end">↗</text>
+</svg>

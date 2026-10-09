@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 211" width="1120" height="211" role="img">
+<title>project skyeye</title>
+<rect x="0" y="0" width="1120" height="211" rx="0" fill="#101010" stroke="none" stroke-width="1"/>
+<rect x="1" y="1" width="1118" height="209" rx="2" fill="none" stroke="#343330" stroke-width="1"/>
+<text x="42" y="41" fill="#777570" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.25">01  /  COMPUTER VISION</text>
+<text x="41" y="105" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="49" font-weight="690" letter-spacing="-2">SkyEye</text>
+<text x="43" y="143" fill="#AAA7A1" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">Detect, evaluate, and escalate uncertain predictions.</text>
+<path d="M42,161 L635,161" stroke="#343330" stroke-width="1" fill="none"/><text x="42" y="189" fill="#CEBA97" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.05">YOLO · VLMs · FastAPI · Docker</text>
+<path d="M673,30 L673,181" stroke="#343330" stroke-width="1" fill="none"/><text x="713" y="43" fill="#777570" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.6">CONFIDENCE-GATED INFERENCE</text>
+<rect x="713" y="65" width="109" height="50" rx="3" fill="#151515" stroke="#343330" stroke-width="1"/>
+<text x="730" y="86" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.2">IMAGE</text>
+<text x="730" y="101" fill="#AAA7A1" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400">RGB / IR</text>
+<path d="M822,90 L847,90" stroke="#CEBA97" stroke-width="2" fill="none"/><circle cx="846" cy="90" r="3" fill="#CEBA97" stroke="none" stroke-width="1"/>
+<rect x="851" y="65" width="99" height="50" rx="3" fill="#151515" stroke="#343330" stroke-width="1"/>
+<text x="867" y="86" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.4">YOLO</text>
+<text x="867" y="101" fill="#AAA7A1" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="400">DETECTOR</text>
+<path d="M950,90 L969,90" stroke="#CEBA97" stroke-width="2" fill="none"/><circle cx="968" cy="90" r="3" fill="#CEBA97" stroke="none" stroke-width="1"/>
+<rect x="974" y="65" width="101" height="50" rx="3" fill="#151515" stroke="#343330" stroke-width="1"/>
+<text x="989" y="86" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.4">VLM</text>
+<text x="989" y="101" fill="#AAA7A1" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="400">FALLBACK</text>
+<path d="M899,115 L899,135" stroke="#777570" stroke-width="1" fill="none"/><path d="M899,135 L1028,135" stroke="#777570" stroke-width="1" fill="none"/><path d="M1028,135 L1028,115" stroke="#777570" stroke-width="1" fill="none"/><text x="727" y="160" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="600">94.11% RGB mAP50</text>
+<text x="942" y="159" fill="#777570" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.1">RESEARCH EVAL.</text>
+<text x="1078" y="188" fill="#CEBA97" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="400" text-anchor="end">↗</text>
+</svg>

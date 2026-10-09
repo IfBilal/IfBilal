@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 211" width="1120" height="211" role="img">
+<title>project real estate</title>
+<rect x="0" y="0" width="1120" height="211" rx="0" fill="#101010" stroke="none" stroke-width="1"/>
+<rect x="1" y="1" width="1118" height="209" rx="2" fill="none" stroke="#343330" stroke-width="1"/>
+<text x="42" y="41" fill="#777570" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="2.25">04  /  AI + PRODUCT</text>
+<text x="41" y="105" fill="#F1EEE8" font-family="Inter, Arial, sans-serif" font-size="49" font-weight="690" letter-spacing="-2">Real Estate Intake</text>
+<text x="43" y="143" fill="#AAA7A1" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="400">A complete seller workflow with useful AI touchpoints.</text>
+<path d="M42,161 L635,161" stroke="#343330" stroke-width="1" fill="none"/><text x="42" y="189" fill="#CEBA97" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.05">Next.js · Supabase · Groq · TypeScript</text>
+<path d="M673,30 L673,181" stroke="#343330" stroke-width="1" fill="none"/><text x="713" y="37" fill="#777570" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1.3">SELLER WORKFLOW / PRE-QUALIFICATION</text>
+<rect x="716" y="54" width="347" height="117" rx="5" fill="#151515" stroke="#343330" stroke-width="1"/>
+<rect x="731" y="68" width="317" height="13" rx="0" fill="#211F1C" stroke="none" stroke-width="1"/>
+<circle cx="742" cy="74" r="3" fill="#CEBA97" stroke="none" stroke-width="1"/>
+<circle cx="754" cy="74" r="3" fill="#777570" stroke="none" stroke-width="1"/>
+<circle cx="766" cy="74" r="3" fill="#777570" stroke="none" stroke-width="1"/>
+<rect x="733" y="94" width="124" height="9" rx="2" fill="#343330" stroke="none" stroke-width="1"/>
+<rect x="733" y="112" width="94" height="8" rx="2" fill="#343330" stroke="none" stroke-width="1"/>
+<rect x="733" y="128" width="145" height="8" rx="2" fill="#343330" stroke="none" stroke-width="1"/>
+<rect x="905" y="93" width="124" height="49" rx="4" fill="none" stroke="#343330" stroke-width="1"/>
+<text x="919" y="112" fill="#CEBA97" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="1">AI REVIEW</text>
+<path d="M919,122 L1016,122" stroke="#343330" stroke-width="3" fill="none"/><path d="M919,131 L987,131" stroke="#343330" stroke-width="3" fill="none"/><rect x="733" y="151" width="296" height="4" rx="0" fill="#CEBA97" stroke="none" stroke-width="1"/>
+<text x="1078" y="188" fill="#CEBA97" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="400" text-anchor="end">↗</text>
+</svg>
